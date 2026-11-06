@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "sender": "alice@example.com",
+        "subject": "Meeting",
+        "body": "We have a meeting tomorrow at 10 AM."
+    },
+    {
+        "id": 2,
+        "sender": "bob@example.com",
+        "subject": "Project",
+        "body": "Please review the project report."
+    }
+]

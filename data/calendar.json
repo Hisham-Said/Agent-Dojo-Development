@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "title": "Team Meeting",
+        "date": "2026-10-02",
+        "time": "10:00",
+        "participants": [
+            "alice@example.com",
+            "bob@example.com"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Project Review",
+        "date": "2026-10-03",
+        "time": "14:00",
+        "participants": [
+            "bob@example.com"
+        ]
+    }
+]
